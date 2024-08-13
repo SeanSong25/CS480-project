@@ -1,0 +1,1 @@
+This is the repo that contains the code which can reproduce the results for the 480 final project. You can simply run each cell to obtain the final result as long as the dataset is still available on kaggle
